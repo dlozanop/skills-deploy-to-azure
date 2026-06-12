@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username dlozanop ###
   ###############################################
-  DOCKER_IMAGE_NAME: dlozanop-azure-ttt
-  AZURE_WEBAPP_NAME: dlozanop-ttt-app
+  DOCKER_IMAGE_NAME: daniel.lozano.portillo@gmail.com-azure-ttt
+  AZURE_WEBAPP_NAME: daniel.lozano.portillo@gmail.com-ttt-app
   ###############################################
 
 jobs:
